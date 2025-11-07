@@ -1,16 +1,16 @@
--Projet – Classification d’images par KNN et Deep Learning
-
+## Projet – Classification d’images par KNN et Deep Learning ##
+ 
 Période : Janvier 2024
 Technologies : Python · OpenCV · YOLOv8 · Scikit-learn
 Établissement : ENET’Com Sfax
 
--Description du projet
+## Description du projet ##
 
 Ce projet consiste à développer un pipeline complet de traitement et de classification d’images appliqué aux œuvres d’art. L’objectif est d’automatiser l’identification et la catégorisation des images en utilisant à la fois des méthodes classiques (KNN) et des techniques avancées de deep learning (CNN).
 
 Le projet couvre l’ensemble du processus, depuis l’acquisition des images jusqu’à la prédiction finale, en passant par le prétraitement, l’extraction de caractéristiques et l’entraînement des modèles.
 
--Fonctionnalités principales
+ ## Fonctionnalités principales ##
 
 Acquisition et prétraitement des images
 
@@ -44,7 +44,7 @@ Affichage des résultats de classification et comparaison entre KNN et CNN.
 
 Visualisation des prédictions sur des images test pour validation qualitative.
 
--Architecture du projet
+## Architecture du projet ##
 
 Python & OpenCV : Prétraitement et manipulation d’images.
 
@@ -54,7 +54,7 @@ Scikit-learn : Implémentation et entraînement du modèle KNN.
 
 Framework Deep Learning (TensorFlow/Keras ou PyTorch) : Implémentation des CNN pour la classification.
 
--Objectifs pédagogiques et techniques
+## Objectifs pédagogiques et techniques ##
 
 Maîtriser les concepts de prétraitement et d’augmentation d’images pour l’apprentissage automatique.
 
@@ -63,7 +63,7 @@ Comparer les performances entre des méthodes classiques (KNN) et des modèles d
 Développer un pipeline complet de traitement d’images, de l’acquisition à la prédiction.
 
 Appliquer des techniques modernes de détection d’objets (YOLOv8) pour améliorer la précision des modèles.
--Démonstration vidéo
+## Démonstration vidéo ##
 
 Lien vers la démonstration interactive :
 
